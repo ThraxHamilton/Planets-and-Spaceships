@@ -1,0 +1,11 @@
+/Users/MikeG/workspace4class/practiceshit/c#/spaceships/obj/Debug/netcoreapp2.1/spaceships.csprojAssemblyReference.cache
+/Users/MikeG/workspace4class/practiceshit/c#/spaceships/obj/Debug/netcoreapp2.1/spaceships.csproj.CoreCompileInputs.cache
+/Users/MikeG/workspace4class/practiceshit/c#/spaceships/obj/Debug/netcoreapp2.1/spaceships.AssemblyInfoInputs.cache
+/Users/MikeG/workspace4class/practiceshit/c#/spaceships/obj/Debug/netcoreapp2.1/spaceships.AssemblyInfo.cs
+/Users/MikeG/workspace4class/practiceshit/c#/spaceships/bin/Debug/netcoreapp2.1/spaceships.deps.json
+/Users/MikeG/workspace4class/practiceshit/c#/spaceships/bin/Debug/netcoreapp2.1/spaceships.runtimeconfig.json
+/Users/MikeG/workspace4class/practiceshit/c#/spaceships/bin/Debug/netcoreapp2.1/spaceships.runtimeconfig.dev.json
+/Users/MikeG/workspace4class/practiceshit/c#/spaceships/bin/Debug/netcoreapp2.1/spaceships.dll
+/Users/MikeG/workspace4class/practiceshit/c#/spaceships/bin/Debug/netcoreapp2.1/spaceships.pdb
+/Users/MikeG/workspace4class/practiceshit/c#/spaceships/obj/Debug/netcoreapp2.1/spaceships.dll
+/Users/MikeG/workspace4class/practiceshit/c#/spaceships/obj/Debug/netcoreapp2.1/spaceships.pdb
